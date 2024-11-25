@@ -53,7 +53,7 @@ This project involves Exploratory Data Analysis (EDA) and prediction modeling on
 - The results are documented in the Jupyter Notebook and the HTML file.
 
 ## Contact
-For any questions or issues, please contact [yuxichen749@gmail.com](mailto:yuxichen749@gmail.com).
+For any questions or issues, please contact meme.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
